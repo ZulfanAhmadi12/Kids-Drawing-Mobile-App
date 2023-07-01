@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Kids Drawing App</string>
+    <string name="clicked_paint" translatable="false">Clicked Paint</string>
+    <string name="image">Image</string>
+    <string name="color">Warna</string>
+    <string name="brush" />
+    <string name="color_palette">Color Pallete</string>
+    <string name="save">Save</string>
+    <string name="galleri">Galleri</string>
+</resources>
