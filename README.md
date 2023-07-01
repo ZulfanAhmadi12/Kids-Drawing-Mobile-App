@@ -20,7 +20,7 @@ Overall, KidsDrawingApp is an engaging and feature-rich native Android app that 
 ## Landing Page's Screenshot
 
 <figure>
-    <img src="https://github.com/ZulfanAhmadi12/AppbjOnline/blob/master/landingpages.png"
+    <img src="Screenshot (234).png"
          alt="Landing's Page" width="600" height="300">
     <figcaption>Screenshot of the Main Page.</figcaption>
 </figure>
