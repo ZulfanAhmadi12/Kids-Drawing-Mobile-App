@@ -17,10 +17,10 @@ KidsDrawingApp was developed as a personal project to showcase and further enhan
 
 Overall, KidsDrawingApp is an engaging and feature-rich native Android app that enables users to explore their artistic side through digital drawing. With its brush customization, image import, download functionality, and redo capability, the app offers a versatile platform for users to create and save their artwork on their mobile devices
 
-## Landing Page's Screenshot
+## Main Activity Screenshot
 
 <figure>
     <img src="Screenshot (234).png"
          alt="Landing's Page" width="600" height="300">
-    <figcaption>Screenshot of the Main Page.</figcaption>
+    <figcaption>Screenshot of the Main Activity of the App</figcaption>
 </figure>
